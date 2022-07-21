@@ -1,0 +1,13 @@
+.AddBtn {
+    position: 'absolute' !important; 
+    bottom: 16 !important;
+    right: 16 !important
+}
+  
+@media ( max-width: 768px ) {
+    .AddBtn { 
+        position: 'absolute' !important;
+        bottom: 30 !important;
+        right: 30 !important
+    }
+}
